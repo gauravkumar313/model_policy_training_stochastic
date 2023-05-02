@@ -1,0 +1,12 @@
+random
+theano
+numpy
+math
+scipy
+lasagne
+sortedcontainers
+datetime
+pickle
+sys
+enum
+-e .
